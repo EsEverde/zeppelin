@@ -56,10 +56,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: “medaka.jpg"
-heroTitle: “4th Strategic Meeting for <typeout> Research 2017”
+heroTitle: “4th Strategic Meeting for Medaka Research & Regional Fish Meeting”
 eventDate: "September - November, 2014"
 typeoutTextValues: '"", “Medaka”, “OtherFish”, “YetOtherFish”'
-typeoutFallback: “Medaka”
+typeoutFallback: "Medaka"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}

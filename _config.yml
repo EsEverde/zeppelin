@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: “medaka.png”
+heroImage: “medaka.jpg”
 heroTitle: “4th Strategic Meeting for Medaka Research & Regional Fish Meeting”
 eventDate: "April 16-18, 2017"
 typeoutTextValues: '"", “Medaka”, “OtherFish”, “YetOtherFish”'
@@ -72,7 +72,7 @@ aboutBlock:
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "medaka.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}

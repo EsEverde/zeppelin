@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: “medaka.jpg"
+heroImage: “medaka.png”
 heroTitle: “4th Strategic Meeting for Medaka Research & Regional Fish Meeting”
 eventDate: "September - November, 2014"
 typeoutTextValues: '"", “Medaka”, “OtherFish”, “YetOtherFish”'

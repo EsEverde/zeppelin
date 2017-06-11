@@ -14,7 +14,11 @@ title: "4th Strategic Meeting for Medaka Research & Regional Fish Meeting"
 email: "everardo.gonzalez@cos.uni-heidelberg.de"
 description: "4th Strategic meeting for Medaka PIs all around the world"
 baseurl: "/zeppelin"
+<<<<<<< HEAD
 url: "https://EsEverde.github.io"
+=======
+url: "https://WittbrodtLab.github.io"
+>>>>>>> 83640fc6ea6c106151f83de0ed4077eefd1353a4
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5" #???
 googleAnalyticsSiteUrl: "WittbrodtLab.github.io" 

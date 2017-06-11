@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: “medaka.png”
 heroTitle: “4th Strategic Meeting for Medaka Research & Regional Fish Meeting”
-eventDate: "September - November, 2014"
+eventDate: "April 16-18, 2017"
 typeoutTextValues: '"", “Medaka”, “OtherFish”, “YetOtherFish”'
 typeoutFallback: "Medaka"
 heroButtons:
